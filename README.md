@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Syed Asif Hussnain 👋
 
-<!--
-**asifhussnain460-bot/asifhussnain460-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer | Founder of TokLiveCounter
 
-Here are some ideas to get you started:
+I am a passionate developer from Pakistan, building useful tools for creators!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 **My Project:** [TokLiveCounter - Live TikTok Followers Counter](https://toklivecounter.vercel.app)
+
+### 🛠️ Tech Stack
+- HTML5, CSS3, JavaScript
+- Next.js, Vercel
+- Git & GitHub
+
+### 📫 Connect With Me
+- Website: https://toklivecounter.vercel.app
+- Email: asifhussnain460@gmail.com
+- Location: Pakistan
+
+> "Building in public, learning every day!"
